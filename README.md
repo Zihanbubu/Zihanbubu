@@ -1,16 +1,39 @@
-### Hi there 👋
+# 布布人设信息表（原创游戏/小说角色） - Bubu's Profile (Original Game/Novel Character)  
 
-<!--
-**Zihanbubu/Zihanbubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://github.com/Zihanbubu/Zihanbubu/blob/main/BubuAvatar.png' align='right' width='297px'>
 
-Here are some ideas to get you started:
+**基本信息**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+昵称：布布  
+
+性别：女  
+
+身高：156厘米  
+
+体重：45千克  
+
+罩杯：B杯  
+
+发型：披肩长发  
+
+发色：奶茶棕  
+
+瞳色：棕色  
+
+**Basic Information**  
+
+Nickname: Bubu  
+
+Sex: Female  
+
+Height: 156cm  
+
+Weight: 45kg
+
+Breast size: B cup
+
+Hair style: Long straight hair
+
+Hair color: Light brown
+
+Eye color: Brown
