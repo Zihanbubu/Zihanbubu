@@ -1,6 +1,6 @@
 # 布布人设信息表（原创游戏/小说角色） - Bubu's Profile (Original Game/Novel Character)  
 
-<img src='https://github.com/Zihanbubu/Zihanbubu/blob/main/BubuAvatar.png' align='right' width='297px'>
+<img src='https://github.com/Zihanbubu/Zihanbubu/blob/main/BubuAvatar.png' align='right' width='256px'>
 
 **基本信息**  
 
